@@ -12,7 +12,7 @@
             src="https://img.shields.io/twitter/follow/nandani_nikita?logo=twitter&style=for-the-badge"
             alt="nandani_nikita" /></a> </p>
 
-- 🔭 I’m currently working on [Decors Website](https://bitbucket.org/nikita_nandani/projectfsd/src/master/)
+- 🔭 I’m currently working on [Art Gallery](https://github.com/nandani-nikita/ArtGallery)
 
 - 🌱 I’m currently learning **React JS**
 
