@@ -16,19 +16,19 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, JavaScript**
+- 👯 I’m looking to collaborate on **MERN Stack and FastAPI**
 
-- 🤝 I’m looking for help with **Postgre SQL**
+- 🤝 I’m looking for help with **REACT JS**
 
 - 👨‍💻 All of my projects are available at
 [https://bitbucket.org/nikita_nandani/projectfsd/](https://bitbucket.org/nikita_nandani/projectfsd/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **NODE JS, EXPRESS JS, PYTHON, MONGO DB, POSTRGE-SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nikita-nandani-2501**
 - 📫 Or drop me a Mail @ <a href="mailto:nikitann2501@gmail.com">My Gmail</a>
 
-- ⚡ Fun fact **Yet To Discover about myself! :P**
+- ⚡ Fun fact **Yet To Discover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
