@@ -31,9 +31,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nikitann2501@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nikitann2501@gmail.com" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani-nikita&show_icons=true&locale=en&layout=compact" alt="nandani-nikita" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandani-nikita&show_icons=true&locale=en" alt="nandani-nikita" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nandani-nikita&show_icons=true&locale=en" alt="nandani-nikita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandani-nikita&" alt="nandani-nikita" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nandani-nikita&" alt="nandani-nikita" /></p>
