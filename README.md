@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandani-nikita" alt="nandani-nikita" /></a> </p>
 
-- 🔭 I’m currently working on [Art Gallery](https://github.com/nandani-nikita/ArtWorkProject.git)
+- 🔭 I’m currently working on [Ayoo Care](http://www.ayoo.care.s3-website.ap-south-1.amazonaws.com/)
 
-- 🌱 I’m currently learning **ReactJS in Depth**
+- 🌱 I’m currently learning **Vue JS**
 
-- 🤝 I’m looking for help with [Frontend in Art-Gallery Project](https://github.com/nandani-nikita/ArtWorkProject.git)
+<!-- - 🤝 I’m looking for help with [Frontend in Art-Gallery Project](https://github.com/nandani-nikita/ArtWorkProject.git) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandani-nikita?tab=repositories](https://github.com/nandani-nikita?tab=repositories)
 
-- 💬 Ask me about **NodeJS, ExpressJS, FastAPI, MongoDB, PostgreSQL, Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **NodeJS, ExpressJS, FastAPI, MongoDB, PostgreSQL, Python, VueJS, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **nikitann2501@gmail.com**
 
